@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-automated-traffic-flag#readme"
+versions:
+  - sha: 5e7792b12e0d12a092daacbe13d5afbab402c5b2
+    changeNotes: Initial release.
