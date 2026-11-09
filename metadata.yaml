@@ -1,5 +1,10 @@
 homepage: "https://www.metricowl.co.uk/gtm-templates"
 documentation: "https://github.com/metricowl-lab/gtm-automated-traffic-flag#readme"
 versions:
+  - sha: c600c969e5c6cd5d8d1e00258fa46b39987b3c07
+    changeNotes: |-
+      Template name now starts with Metric Owl and says whether it's a tag or a variable.
+      Description links to the documentation and support page.
+      Licence copyright line filled in.
   - sha: 5e7792b12e0d12a092daacbe13d5afbab402c5b2
     changeNotes: Initial release.
